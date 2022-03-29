@@ -1,0 +1,9 @@
+{
+	"name": "adfv2trail",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f44bd8f3-3d1f-48af-b939-68867d10f9c4",
+		"tenantId": "cc7e010d-4210-43b1-8056-dc45899b6a78"
+	}
+}
